@@ -242,7 +242,7 @@
 ### **Roadmap Summary**
 
 | **Course**                         | **Duration**     |
-| |- |
+| --------------------------------- | ---------------- |
 | Web Foundations                   | 6-8 weeks        |
 | JavaScript Fundamentals           | 8-10 weeks       |
 | Intermediate JavaScript           | 6-8 weeks        |
